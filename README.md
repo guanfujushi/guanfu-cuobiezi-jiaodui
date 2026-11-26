@@ -4,6 +4,8 @@
 
 **作者：观复居士 ·商务合作：13148728713；微信号：guanfujs**
 
+[![SkillHub](https://img.shields.io/badge/下载-SkillHub-orange)](https://www.skillhub.cn/skills/guanfu-cuobiezi-jiaodui)
+
 **English**: Chinese typo and punctuation proofreading reference — paste any text and get a four-column checklist (original / error / suggestion / location), 30 high-frequency confusable character pairs each with a one-line mnemonic, and five common punctuation mistakes.
 
 ---
